@@ -1,0 +1,13 @@
+name = D7SBE – Domicile
+description = A three-column design by Design House and themed by Design to Theme.
+screenshot = screenshot.png
+core = 7.x
+engine = phptemplate
+base theme = ninesixty
+; Stylesheets.
+stylesheets[all][] = styles.css
+; Regions
+regions[nav_left] = Navigation (left)
+regions[feature_middle] = Feature column (middle)
+regions[content] = Content column (right)
+regions[copyright_footer]= Copyright notice (footer)
